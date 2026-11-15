@@ -1,0 +1,15 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
+*.txt
+!README.md
+!LICENSE
+
+# Backups
+backup/
+C:/EFI_Backup/
